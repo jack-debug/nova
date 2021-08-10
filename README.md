@@ -3,7 +3,7 @@ Nova is an AI powered chatbot that runs on GPT-2. Nova runs locally on your comp
 ### How to install
 1. **Install miniconda**
 
-Miniconda is required for the virtual environment needed to run Nova. You can find instructions to install miniconda and installers (here)[https://docs.conda.io/en/latest/miniconda.html]
+Miniconda is required for the virtual environment needed to run Nova. You can find instructions to install miniconda and installers [here](https://docs.conda.io/en/latest/miniconda.html)
 
 2. **Start new virtual env with miniconda**
 
