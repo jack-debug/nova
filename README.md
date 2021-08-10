@@ -19,7 +19,7 @@ Activate the virtual env with
 
 Install the dependencies with pip.
 
-`$ pip install gpt_2_simple tensorflow=1.15.2 TTS`
+`$ pip install gpt_2_simple tensorflow=1.15.2 pyttsx3`
 
 4. **Download the script and run**
 
